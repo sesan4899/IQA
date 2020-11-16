@@ -1,0 +1,38 @@
+# Wavefront .mtl file  -  created by SpaceDraw
+
+# File created: 20-03-27, 10:23
+
+newmtl Airconditioner_front
+Ns 40.5
+d 1.0
+Tr 0.0
+illum 2
+Ka 0.50189996 0.50189996 0.50189996 
+Kd 0.50189996 0.50189996 0.50189996 
+Ks 0.92539996 0.92539996 0.92539996 
+Ke 0.0 0.0 0.0 
+map_Ka rustedAirCfront.jpg
+map_Kd rustedAirCfront.jpg
+
+newmtl acbody
+Ns 20.0
+d 1.0
+Tr 0.0
+illum 2
+Ka 0.50189996 0.50189996 0.50189996 
+Kd 0.50189996 0.50189996 0.50189996 
+Ks 0.7686 0.7686 0.7686 
+Ke 0.0 0.0 0.0 
+map_Ka PicsArt_03-27-09.47.06.jpg
+map_Kd PicsArt_03-27-09.47.06.jpg
+
+newmtl standard
+Ns 20.0
+d 1.0
+Tr 0.0
+illum 2
+Ka 0.50189996 0.50189996 0.50189996 
+Kd 0.50189996 0.50189996 0.50189996 
+Ks 0.50189996 0.50189996 0.50189996 
+Ke 0.0 0.0 0.0 
+
