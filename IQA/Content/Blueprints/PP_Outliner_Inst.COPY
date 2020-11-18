@@ -1,0 +1,13 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="PP_Outliner_Inst"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_3"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_3"
+   End Object
+   ParameterStateId=25F4AD264A799BC12ECC4AA8FDD1563A
+   Parent=Material'"/Game/Materials/PP_Outliner_M.PP_Outliner_M"'
+   ScalarParameterValues(0)=(ParameterInfo=(Name="RefractionDepthBias"))
+   VectorParameterValues(0)=(ParameterInfo=(Name="OutlineColor"),ParameterValue=(R=1.000000,G=0.953595,B=0.000000,A=1.000000),ExpressionGUID=4F5F886547E95946E73571BE0F2F7B1E)
+   BasePropertyOverrides=(ShadingModel=MSM_Unlit,OpacityMaskClipValue=0.333300)
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_3"'
+   LightingGuid=1CD8E1334E7C7FC775CE629F14A2BD70
+End Object
